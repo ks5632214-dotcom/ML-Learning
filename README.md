@@ -40,17 +40,17 @@ Welcome to my Machine Learning repository! This project serves as a comprehensiv
     
 
 ## Tech Stack & Tools
-**Language:** Python
+* **Language:** Python
 
-**Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+* **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
-**Environment:** Jupyter Notebooks / VS Code
+* **Environment:** Jupyter Notebooks / VS Code
 
 
 ## Key Takeaways & Skills
 * **Data Preprocessing:** Handled missing values, categorical encoding, and feature scaling.
-* 
+ 
 * **Model Evaluation:** Applied metrics like RMSE, R² Score, Accuracy, Precision, Recall, F1-Score, and Silhouette Scores to validate performance.
-* 
+  
 * **Problem Solving:** Structured data workflows to address both supervised (regression/classification) and unsupervised (clustering) challenges.
 
