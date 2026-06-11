@@ -47,7 +47,7 @@ Welcome to my Machine Learning repository! This project serves as a comprehensiv
 **Environment:** Jupyter Notebooks / VS Code
 
 
-## 📈 Key Takeaways & Skills
+## Key Takeaways & Skills
 * **Data Preprocessing:** Handled missing values, categorical encoding, and feature scaling.
 * 
 * **Model Evaluation:** Applied metrics like RMSE, R² Score, Accuracy, Precision, Recall, F1-Score, and Silhouette Scores to validate performance.
