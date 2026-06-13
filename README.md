@@ -36,7 +36,11 @@ Welcome to my Machine Learning repository! This project serves as a comprehensiv
     
 **09- Spam Email Classifier**
     * Algorithm: Naive Bayes.
-    * Goal:* A Natural Language Processing (NLP) text classification system that filters incoming messages into spam or ham using probabilistic modeling.
+    * Goal: A Natural Language Processing (NLP) text classification system that filters incoming messages into spam or ham using probabilistic modeling.
+
+**10- Customer Churn Prediction**
+    * Algorithm: Logistic Regression, Decision Tree, Random Forest, KNN.
+    * Goal: A machine learning project that predicts customer churn by analyzing customer behavior and service usage patterns to identify customers likely to                  leave.
     
 
 ## Tech Stack & Tools
