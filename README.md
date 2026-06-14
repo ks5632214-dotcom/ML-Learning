@@ -41,6 +41,10 @@ Welcome to my Machine Learning repository! This project serves as a comprehensiv
 **10- Customer Churn Prediction**
     * Algorithm: Logistic Regression, Decision Tree, Random Forest, KNN.
     * Goal: A machine learning project that predicts customer churn by analyzing customer behavior and service usage patterns to identify customers likely to                  leave.
+
+ **11- Medical Insurance Cost Prediction**
+    * Algorithm: Linear Regression, Ridge, Lasso, Random Forest Regressor.
+    * Goal: Built a Machine Learning regression model to predict medical insurance charges using demographic and health-related features.
     
 
 ## Tech Stack & Tools
